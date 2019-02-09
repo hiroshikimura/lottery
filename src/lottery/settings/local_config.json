@@ -1,0 +1,9 @@
+{
+  "Env": "development",
+  "Binding": ":8088",
+  "Path": "${GOPATH}",
+  "Value": {
+    "V1": "vvv",
+    "V2": "www"
+  }
+}

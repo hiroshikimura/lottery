@@ -1,0 +1,10 @@
+{
+  "Env": "development",
+  "Binding": ":8088",
+  "Path": "${OLDPWD}",
+  "Value": {
+    "V1": "VVVVV",
+    "V2": "WWWWW",
+    "V3": 100
+  }
+}

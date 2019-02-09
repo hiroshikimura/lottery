@@ -1,0 +1,5 @@
+pkg
+bin/
+src/lottery/vendor/
+src/github.com/
+src/golang.org/
